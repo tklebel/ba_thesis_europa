@@ -5,7 +5,7 @@ Todo:
 
 **Nachschauen**:
 
-- Eder, C., & Kantner, C. (2000). Transnationale Resonanzstrukturen in Europa: Eine Kritik der Rede vom Öffentlichkeitsdefizit. Kölner Zeitschrift für Soziologie und Sozialpsy- chologie. Sonderheft 40. Wiesbaden: Westdeutscher Verlag, 306–331.
+- Eder, C., & Kantner, C. (2000). Transnationale Resonanzstrukturen in Europa: Eine Kritik der Rede vom Öffentlichkeitsdefizit. Kölner Zeitschrift für Soziologie und Sozialpsy- chologie. Sonderheft 40. Wiesbaden: Westdeutscher Verlag, 306–331. [Link zu Unikat](http://search.obvsg.at/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=UGR_aleph_acc001827288&indx=1&recIds=UGR_aleph_acc001827288&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=1&institute=UGR&fromLogin=true&tab=default_tab&dstmp=1431928894257&vl(freeText0)=Die%20Europäisierung%20nationaler%20Gesellschaften&vid=UGR&mode=Basic)
 - Risse, T. (2003). An Emerging European Public Sphere? Theoretical Clarifications and Em- pirical Indicators. Paper presented to the Annual Meeting of the European Union Stud- ies Association (EUSA). Nashville.
 - Pausch, M. (2006). Die europäische Öffentlichkeit im konstitutionellen Prozess. In S. Puntscher Riekmann & G. Herzig & C. Dirninger (Hg.), Europa Res Publica. Europäi- scher Konvent und Verfassungsgebung als Annäherung an eine europäische Republik? (189–211) Wien: Böhlau.
 - Bruell, C., & Mokre, M., & Pausch M. (Eds.) (2009). Democracy needs Dispute. The Refe- renda on the European Constitution. Frankfurt: Campus.
