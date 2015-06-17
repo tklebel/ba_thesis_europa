@@ -15,3 +15,8 @@ Todo:
 Habermas, J. (1962). Strukturwandel der Öffentlichkeit: Untersuchungen zu einer Katego- rie der bürgerlichen Gesellschaft. Neuwied: Hermann Luchterhand Verlag.
 
 Luhmann, N. (1971). Politische Planung: Aufsätze zur Soziologie von Politik und Verwal- tung. Opladen: Westdeutscher Verlag.
+
+
+## Idee aus der Berufungspräsentation
+how european is European identification?
+jochen roose
