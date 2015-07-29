@@ -47,10 +47,11 @@ Anfangen mit Griechenlandkrise. Wenig Solidarität mit Griechenland als Mitglied
 - Allgemeine Einführung in die Begriffe:
     + Lingenberg - Europäische Publikumsöffentlichkeiten
     + Zusammenfassend:
-        * Brüggemann 2010 Transnationale Öffentlichkeit in Europa
+        * Brüggemann 2009 Transnationale Öffentlichkeit in Europa
         * evtl auch: Van de Steeg 2002: Rethinking the Conditions for a Public Sphere in the European Union (Zugang Uni Wien)
 
-
+## Öffentlichkeit als Weg zur politischen Legitimation
+Brüggemann 2009 (S. 394) verweist auf: Habermas, J. (2008). Ach Europa. Kleine politische Schriften (Seite 173)
 
 ### Eurobarometer
 Pausch, Markus (2009). „Eurobarometer und die Konstruktion eines europäischen Bewusstseins“. In: Umfrageforschung.
