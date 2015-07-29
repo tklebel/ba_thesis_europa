@@ -30,3 +30,7 @@ Literatur/Reviews
 *.run.xml
 *.fdb_latexmk
 
+
+*.sublime-workspace
+*.sublime-project
+
