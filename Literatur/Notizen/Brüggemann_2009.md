@@ -1,4 +1,4 @@
-# Notizen zum ARtikel: Transnationale Öffentlichkeit in Europa:  Forschungsstand und Perspektiven
+# Notizen zum Artikel: Transnationale Öffentlichkeit in Europa:  Forschungsstand und Perspektiven
 
 ## Diskussion, ob es eine europäische Öffentlichkeit und ein Kommunikationsdefizit gibt
 Beitrag nimmt nicht Teil an dieser Debatte. Diese Debatte sei nur aus der Vorstellung entstanden, man könne die eurpäische Öffentlichkeit mit mitteln der nationalen Öffentlichkeitsforschung konzeptionalisieren. Dies sei aber nicht möglich bzw. nicht gelungen. (393)
@@ -7,7 +7,7 @@ Beitrag nimmt nicht Teil an dieser Debatte. Diese Debatte sei nur aus der Vorste
 Öffentlichkeit legitimiere nach Habermas zum Teil Herrschaft. (394) **Das könnte ein wichtiger Punkt für meine Argumentation sein**: In der aktuellen Krise des Legitimationsdefizits der europäischen Institutionen könnte eine eurpäische Öffentlichkeit legitimierend wirken.
 
 Habermas, J. (2008). Ach Europa. Kleine politische Schriften XI. Frankfurt a.M.: Suhrkamp.
-    http://search.obvsg.at/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=UGR_aleph_acc002316073&indx=1&recIds=UGR_aleph_acc002316073&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&frbg=&scp.scps=scope%3A%28UGR_sfx%29%2Cscope%3A%28UGR_aleph_acc%29%2Cscope%3A%28UGR_aleph_ubg01%29%2Cscope%3A%28UGR_metalib_kb%29&tab=default_tab&dstmp=1438167196140&srt=rank&mode=Basic&&dum=true&tb=t&vl(freeText0)=Habermas%2C%20J.%20%282008%29.%20Ach%20Europa.%20Kleine%20politische%20Schriften%20XI.%20Frankfurt%20a.M.%3A%20Suhrkamp.&vid=UGR
+    RESOWI: STAR A 3309/1 ; POL-672
 
 
 ## Transnationale Öffentlichkeit und nationale Öffentlichkeit
@@ -27,7 +27,7 @@ Ist kein zwingender Gegensatz, sondern ein sowohl als auch: innerhalb transnatio
 ## Identität und Öffentlichkeit (402)
 Für manche Theoretiker sei eine kollektive Identität die Voraussetzung für eine europäische Öffentlichkeit. Grimm 1995 und Kielmansegg 1996 vertreten die starke These, dass es ohne ein gemeinsames Volk/Demos auch keine gemeinsame Öffentlichkeit geben könne. **Kantner 2004** (kein modernes Babel) bestreitet dies, meint, es könne auch eine Verständigung ohne kollektive Identität geben. Nach Habermas (2001) würde sich eine kollektive Identität erst durch gemeinsame Debatten entwicklen. *Genau diesen Standpunkt würde ich teilen. Allerdigns würde ich einwenden, dass die Partizipation an einem europäischen Diskurs schon eine gewisse Identifikation voraussetzt. Die aktuellen Auseinandersetzungen über Griechenland sind ein Musterbeispiel: Die Berichterstattung hätte durch einene "europäischen" Blick ein "Wir-Gefühl" erzeugen können. Der ganze Diskurs lief aber genau in die andere Richtung (vgl. Berichte der BILD), daher ist das Ergebnis, auch auf Grund der politischen Entscheidungen, eher eines, das zu einer Desintegration führen könnte.*
 
-Empirische Fragen haben Wessler et al. (2008) behandelt. Allerdings werden hier nur Medienanalysen durchgeführt. Die Analyse, wie oft "Wir"-Formulierungen in den Zeitungen vorkommen ist für meine Zwecke wohl nicht so stark interessant. Mich würde eher interessieren, inwieweit sich einzelne Personen als EuropäerInnen fühlen. Also Fragen, die eher mit dem Eurobarometer erhoben werden. Hier kommt die Kritik am Eurobarometer dazu. Anschließend könnte ich nachschauen, ob in den Artikeln von Pausch (der das Eurobarometer kritisiert) alternative Erhebungen erwähnt werden.
+Empirische Fragen haben Wessler et al. (2008) behandelt. *Allerdings werden hier nur Medienanalysen durchgeführt. Die Analyse, wie oft "Wir"-Formulierungen in den Zeitungen vorkommen ist für meine Zwecke wohl nicht so stark interessant. Mich würde eher interessieren, inwieweit sich einzelne Personen als EuropäerInnen fühlen. Also Fragen, die eher mit dem Eurobarometer erhoben werden. Hier kommt die Kritik am Eurobarometer dazu. Anschließend könnte ich nachschauen, ob in den Artikeln von Pausch (der das Eurobarometer kritisiert) alternative Erhebungen erwähnt werden.*
 
 ## Öffentlichkeit aus der Sicht des Publikums (405)
 Sprachenvielfalt mache es schwierig, Informationsmedien in anderen Ländern zu konsumieren. *Genau hier passt der Einwand von Armin Wolf: Zu wenige Menschen können Englisch für ein Angebot wie politico.eu.*
